@@ -1,0 +1,76 @@
+[
+  {
+    "sku": "xa4qyvXhGM6j8CWux",
+    "name": "Hemd mit Streifen und COOLMAX®",
+    "images": ["/image1.jpg", "/image2.jpg", "/image3.jpg", "/image4.jpg"],
+    "brandId": "xa4qyvXhGM6j8CWux",
+    "isActive": true,
+    "variants": [{ "name": "Size", "value": ["S", "M", "L", "XL", "XXL"] }],
+    "stockUnit": 31,
+    "updatedAt": "2019-10-25T12:30:03.813Z",
+    "createdAt": "2019-10-25T21:22:32.115Z",
+    "subCategoryId": "xa4qyvXhGM6j8CWux",
+    "price": {
+      "promo": 0,
+      "retail": 75,
+      "discount": 0,
+      "isOnDiscount": false,
+      "isOnPromotion": false,
+      "priceAfterDiscount": 0
+    },
+    "productLink": "https://www.esprit.de/sale/herren-sale/new-in-sale/hemd-mit-streifen-und-coolmax-099EE2F009_440",
+    "description": "Die COOLMAX® Technologie sorgt bei diesem Popeline-Hemd für ein angenehm kühles Tragegefühl, ganz gleich bei welchem Wetter.",
+    "isAvailable": true,
+    "customField": [],
+    "preOrderOnly": true,
+    "attributes": {
+      "tags": ["Shirt", "Esprit", "Summer"],
+      "type": ""
+    },
+    "shipping": {
+      "weight": 77,
+      "dimensions": { "width": 76, "height": 32, "length": 57 }
+    },
+    "isThisBestSeller": false,
+    "isThisUserFavourite": false
+  },
+
+  {
+    "sku": "xa4qyvXhGM6j8CWux",
+    "name": "Hose mit Karo-Muster, aus Baumwoll-Stretch",
+    "images": ["http://image1.jpg", "image2.jpg", "image3.jpg", "image4.jpg"],
+    "brandId": "xa4qyvXhGM6j8CWux",
+    "isActive": true,
+    "variants": [{ "name": "Size", "value": ["S", "M", "L", "XL", "XXL"] }],
+    "stockUnit": 31,
+    "updatedAt": "2019-10-25T12:30:03.813Z",
+    "createdAt": "2019-10-25T21:22:32.115Z",
+    "subCategoryId": "xa4qyvXhGM6j8CWux",
+    "price": {
+      "promo": 0,
+      "retail": 75,
+      "discount": 0,
+      "isOnDiscount": false,
+      "isOnPromotion": false,
+      "priceAfterDiscount": 0
+    },
+    "productLink": "https://www.esprit.de/sale/herren-sale/new-in-sale/hose-mit-karo-muster-aus-baumwoll-stretch-089EE2B011_010",
+    "description": "Pants mit Karo-Muster, ein Fashion Statement.",
+    "isAvailable": true,
+    "customField": [],
+    "preOrderOnly": true,
+    "attributes": {
+      "tags": ["Pant", "Esprit", "Summer"],
+      "type": ""
+    },
+    "shipping": {
+      "weight": 77,
+      "dimensions": { "width": 76, "height": 32, "length": 57 }
+    },
+    "isThisBestSeller": false,
+    "isThisUserFavourite": false
+  }
+]
+
+
+

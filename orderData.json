@@ -1,0 +1,47 @@
+{
+  "userId": "5WzRZMyYiPq7mrbDD",
+  "totalAmount": 6.00,
+  "invoiceAddress": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "street": "Abc Street",
+    "zipCode": "5412",
+    "city": "Koblenz",
+    "country": "Germany",
+    "mobile": "+4917657971409",
+    "phone": ""
+  },
+  "deliveryType": "Home delivery",
+  "deliveryAddress": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "street": "Abc Street",
+    "zipCode": "5412",
+    "city": "Koblenz",
+    "country": "Germany",
+    "mobile": "+4917657971409",
+    "phone": ""
+  },
+  "deliveryDate": "2018-06-13T15:42:40.572Z",
+  "invoiceRef": "HUK-01",
+  "orderStatus": "Pending",
+  "feedback": "",
+  "cart": {
+    "5db41dece3d70c593f87ae45": {
+      "productName": "Hemd mit Streifen und COOLMAX®",
+      "productPrice": 3.00,
+      "quantity": 1,
+      "variants": [{ "name": "Size", "value": "S" }],
+      "sum": 3.00,
+      "image": "/image1.jpg"
+    },
+    "5db426e6b4506b630cd487d3": {
+      "productName": "Hose mit Karo-Muster, aus Baumwoll-Stretch",
+      "productPrice": 3.00,
+      "quantity": 1,
+      "variants": [{ "name": "Size", "value": "M" }],
+      "sum": 3.00,
+      "image": "/image1.jpg"
+    }
+  }
+}
