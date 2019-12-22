@@ -11,7 +11,7 @@
     "node",
     "productsApi"
   ],
-  "author": "Mohammad Nizam Uddin",
+  "author": "Mohammad Nizam Uddin Shawon",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
