@@ -12,13 +12,15 @@ const brandRoutes = require("./api/routes/brands");
 // Init app
 const app = express();
 
+mongoose.Promise = global.Promise;
+
 mongoose.connect(
-   "mongodb+srv://storm-chaser:" +
-      process.env.MONGO_ATLAS_PW +
+   "mongodb+srv://shawon:" +
+      'RuFWm1xyzlst0Hp4' +
       "@hatbazaruk-shop-3dxmo.mongodb.net/test?retryWrites=true&w=majority",
    { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true }
-);
-mongoose.Promise = global.Promise;
+).then(()=>console.log("DB server connected"))
+   .catch(e => console.log("DB error", e));
 
 app.use(morgan("dev"));
 app.use(bodyParser.urlencoded({ extended: false }));
